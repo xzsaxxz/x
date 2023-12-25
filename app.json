@@ -70,7 +70,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/CoderXPiyush/PiyushMusicBot",
+        "value": "https://github.com/xzsaxxz/x",
         "required": true
       },
       "UPSTREAM_BRANCH": {
